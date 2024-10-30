@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @klyxion
+- 👋 Hi, I’m Bern'z 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning about html and css
 - 💞️ I’d love to collaborate on study groups or projects to practice web development skills and exchange knowledge with others.
